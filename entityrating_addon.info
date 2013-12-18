@@ -1,5 +1,5 @@
 name = Entity Rating Addone
-description = This is addone of entity rating module. By using this module you will get rating based on node view also, including facebook like and twitter tweets.
+description = This is addone of entity rating module. By using this module you will get rating based on node view also, including facebook like and twitter tweets. Test add
 core = 7.x
 package = MojoViva
 dependencies[] = block
